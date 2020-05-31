@@ -35,6 +35,8 @@ This study has been designed, developed, and reported by the following investiga
 
 * <b> Martina De Sanctis </b> - Gran Sasso Science Institute - GSSI, L'Aquila, Italy
 
+* <b> Annalisa Congiu </b> - Univerità degli Studi di Trento - Trento, Italy
+
 For any information, interested researchers can contact us by writing an email to martina.desanctis@gssi.it.
 
 
